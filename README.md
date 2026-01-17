@@ -1,10 +1,3 @@
-# Copilot Chat Conversation Export: Random joke generator using an API
-
-**User:** @klongchu
-**Thread URL:** https://github.com/copilot/c/6b7762fe-c2b1-4b67-9238-b77ef6f85b47
-
-## @klongchu
-
 docker swarm ทํา IP VIP + keepalived 
 ทำแบบไหน
 
